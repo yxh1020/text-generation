@@ -56,7 +56,7 @@ Several ways that can further improve the model:
 
 [2] Schuster, Mike, and Kuldip K. Paliwal, 1997,  [Bidirectional recurrent neural networks](https://www.researchgate.net/profile/Mike_Schuster/publication/3316656_Bidirectional_recurrent_neural_networks/links/56861d4008ae19758395f85c.pdf) 
 
-[3]Alec Radford, Jeffrey Wu , Rewon Child , David Luan, Dario Amodei, Ilya Sutskever ,  2019, [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
+[3]Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, and Ilya Sutskever,  2019, [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
 
 
 
