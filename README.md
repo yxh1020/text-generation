@@ -9,7 +9,7 @@ Text generation is an application of language modeling, and a subfield of natura
 Text generation can be used to write stories, poems, emails, news articles, and more. It is also useful for machine translation and chatbots.
 
 
-## Description
+## Descriptions
 Note: Due to the lack of computing power, only the abstracts of the articles are selected to form the corpus.
 
 #### `scraper.py` ####
