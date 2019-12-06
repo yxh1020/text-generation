@@ -31,6 +31,9 @@ Steps involved in text preprocessing:
 
 #### `text_generation_word_train.ipynb` ####
 It is used for data preparation, and data modeling. It outputs a language model for text generation.
+
+Bidirectional LSTM is used to improve the performance.
+
 A Python generator is used to save memory space, and solve scaling problem.
 
 #### `text_generation_word_generate.ipynb` ####
