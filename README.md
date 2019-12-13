@@ -3,6 +3,10 @@
 ## Objective
 The goal of this project is to generate scientific sentences, when a scientific phrase or sentence is given. 
 
+**The final model was built on Flask and deployed to Heroku.**
+
+[Scientific Text Generator](https://flask-text-generation.herokuapp.com)
+
 ## Background
 Text generation is an application of language modeling, and a subfield of natural language processing. It utilizes techniques in artificial intelligence to automatically generate natural language text, which fits in a certain communication context.
 
