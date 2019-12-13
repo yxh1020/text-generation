@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title> Scientific Sentence Generator </title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+  <!-- <link rel="stylesheet" href="static/css/main.css"> -->
+</head>
+
+  <body>
+  <div class="container">
+     <h1 class="headertext">Scentific Text Generator</h1>
+    <center>
+		<form action="/" method="POST">
+  		<p>Please enter a phrase or sentence</p>
+  		<textarea class="text-area" name="message" rows="4" cols="50" placeholder="Ex. statistical machine learning."></textarea>
+  		<br/>
+
+  		<input class="btn" type="submit" value="Generate" >
+
+	  </form>
+    </center>
+	</div>
+
+<table>
+  <thead>
+    <tr class="table-head">
+      <th class="column1">Entered Text</th>
+      <th class="column1">Generated Text</th>
+    </tr>
+    <tbody>
+      <tr>
+      <td class="column1">{{ seed }}</td>
+      <td class="column2">{{ generation }}</td>
+      </tr>
+    </tbody>
+  </thead>
+
+</table>
+
+  </body>
+</html>
