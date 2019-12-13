@@ -1,0 +1,97 @@
+body{
+  background-size: auto;
+  background-position: 95% 10% 5% 10%;
+  background-size: 20%;
+  background-color: #E6E2E1;
+}
+
+
+body h1.headertext{
+  text-align: center;
+  text-shadow: 1px 1px #000;
+}
+
+body .container{
+	width:100%;
+	margin: auto;
+	overflow: hidden;
+  padding-top:2%;
+  padding-bottom: 1%;
+}
+
+
+body .btn {
+  background-color: #6441A5;
+  font-size: 18px;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  padding: 8px 16px
+  text-decoration: none;
+  margin: 1% 2%;
+  cursor: pointer;
+}
+
+body .btn:hover {
+  background-color: #800080
+}
+
+body .text-area{
+  font-size: 20px;
+  border-radius: 5px;
+}
+
+table {
+  border-spacing: 1;
+  border-collapse: collapse;
+  background: white;
+  border-radius: 10px;
+  overflow: hidden;
+  width: 80%;
+  margin: 2% 10% 0 10%;
+  position: relative;
+}
+
+table td, table th {
+  padding-left: 8px;
+}
+
+table thead tr {
+  height: 47px;
+	background: #300553
+}
+
+.table-head th{
+  font-size: 20px;
+  color: #fff;
+  line-height: 1.0;
+}
+
+table tbody tr {
+  height: 57px;
+}
+
+
+table td, table th {
+  text-align: left;
+}
+
+
+tbody tr {
+  font-size: 22px;
+  #color: #373839;
+  line-height: 1.2;
+  font-weight: unset;
+}
+
+
+.column1 {
+  width: 260px;
+  padding-left: 20px;
+}
+
+.column2 {
+  width: 260px;
+  padding: 10px 10px 10px 20px;
+  background-color: #f5f5f5;
+}
