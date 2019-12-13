@@ -16,6 +16,9 @@ Text generation can be used to write stories, poems, emails, news articles, and 
 ## Descriptions
 Note: Due to the lack of computing power, only the abstracts of the articles are selected to form the corpus.
 
+#### `flask-app` ####
+This folder contains all files for deployment to Heroku with Flask.
+
 #### `scraper.py` ####
 This file is used to collect papers information from NIPS website using scraping techniques.
 
