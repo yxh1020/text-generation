@@ -2,7 +2,7 @@
 
 **The final model was built on Flask and deployed to Heroku.**
 
-[Scientific Text Generator](https://flask-text-generation.herokuapp.com)
+[Scientific Text Generator](https://flask-text-generation.herokuapp.com) (it takes a sec to load, so just be patient :))
 
 ## Objective
 The goal of this project is to generate scientific sentences, when a scientific phrase or sentence is given. 
